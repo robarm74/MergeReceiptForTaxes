@@ -13,14 +13,14 @@ In this version, I use rectpack for optimizing space.
 ![Example](example.jpg)
 
 ### installig requirements
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ### Running 
-'''
+```
 py merge_scontrini.py
-'''
+```
 
 Open your browser at http://127.0.0.1:5000
 
