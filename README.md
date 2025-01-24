@@ -25,5 +25,6 @@ py merge_scontrini.py
 Open your browser at http://127.0.0.1:5000
 
 Drag and drop your files, select space between recipts and click generate.
+
 Now you can print or save your merged pdf.
 
